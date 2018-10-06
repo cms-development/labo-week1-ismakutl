@@ -1,0 +1,13 @@
+ul#menu-cmsdev-menu {
+  display: flex;
+  margin-top: 8px;
+}
+li.menu-item {
+  padding: 8px 16px;
+}
+li.menu-item > a {
+  color: #333;
+}
+li.menu-item > a:hover {
+  color: #00d1b2;
+}
